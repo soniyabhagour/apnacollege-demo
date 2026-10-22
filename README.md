@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author-Soniya Bhagour
+Author-Soniya Bhagour(Apna College)
